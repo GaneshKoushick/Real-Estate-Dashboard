@@ -43,11 +43,6 @@ Waterfront properties (orange dots) command premium prices even at smaller sizes
 Only 0.75 % of properties are waterfront.
 Yet they represent a significant share of high-value transactions, showing strong luxury demand.
 
-🪜 Decomposition Tree
-Bedrooms, grade, and view are the strongest price drivers.
-Higher grade and better view significantly boost average prices.
-Grade 13 + View 3 or 4 deliver the highest valuations (above $6.8 M).
-
 📅 Average Price by Month
 Volatility observed across months; dip around Jan 2015 followed by strong rebound by Apr 2015.
 Suggests cyclical buyer behavior or seasonality.
@@ -55,6 +50,11 @@ Suggests cyclical buyer behavior or seasonality.
 💰 Price Range Distribution
 $200K–$600K dominates with ~14K+ units sold.
 Luxury segment ($1M+) smaller in count but large in total value contribution.
+
+🪜 Decomposition Tree
+Bedrooms, grade, and view are the strongest price drivers.
+Higher grade and better view significantly boost average prices.
+Grade 13 + View 3 or 4 deliver the highest valuations (above $6.8 M).
 
 💡 Summary Insights
 Market shows strong mid-tier activity and healthy luxury margins.
