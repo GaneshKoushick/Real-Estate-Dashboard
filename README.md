@@ -6,7 +6,7 @@
 
 
 
-Create an Amazing Power BI Dashboard | Real Estate Sales Dashboard
+Created an Amazing Power BI Dashboard | Real Estate Sales Dashboard
 
 🎯 Problem Statement
 Real estate investors, analysts, and brokers often struggle to understand which property types, price ranges, or features drive profitability.
